@@ -1,5 +1,5 @@
 name: "conventional-release-note"
-description: "Create release notes which contents are sorted by the conventional commit rule"
+description: "Create release notes which contents   are sorted by the conventional commit rule"
 author: "mapbox-jp"
 inputs:
   current-tag:
